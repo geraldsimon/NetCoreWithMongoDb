@@ -1,5 +1,6 @@
 
 ASP.Net Web Application<br>
 MVC <br>
-Core 3.1 with MongoDb<br>
+.Net Core 3.1 <br>
+MongoDb<br>
 Use of generic repository and interface
